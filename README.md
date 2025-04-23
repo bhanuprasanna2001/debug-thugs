@@ -2,11 +2,24 @@
 
 
 
+### Phases
+
+1. During course:
+	1. The content is structured in day wise content as it is a bootcamp. Every day new content is released. Every content also has the skills that will be gained in that day.
+	2. If the user completes the entire day's content, then he is shown a form where he is asked what skills he enjoyed working on. It will be a multiple choice - For example, Python, Data Analysis, Visualizations, and Data Cleaning. Out of these user might select a few options. Suppose he chooses Python and Data Analysis.
+	3. After taking input of the multiple choice we then post the user the following questions:
+		1. Why did he like working on Python and Data Analysis skills?
+		2. Why did he not like working on Data Cleaning and Visualization?
+	4. This data is stored in a database building a knowledge base which we later use during the After course career path planning and other analysis.
+2. After Course:
+	1. We have the data for each day and the user feedback on what he liked and what he didn't like.
+	2. Based on this data we actually help the user to look at the possible career paths based on their feedback.
+	3. We could also provide what more courses that the user can do in order to have more access to more career paths.
+	4. Basic analytics, Total time spent on this course, etc.
 
 
 
-
-Notes:
+### Notes:
 
 Challenges while learning and managing and intensive learning journey:
 1. Managing intensive daily workloads.
