@@ -79,7 +79,7 @@ Together, Pathly not only summarizes learning but actively suggests what to lear
 ---
 
 ## Architecture
-![Architecture Diagram](./assets/architecture-pathly.png)
+![Architecture Diagram](./assets/architecture.png)
 
 ```mermaid
 flowchart LR
