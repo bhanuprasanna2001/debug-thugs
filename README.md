@@ -76,7 +76,6 @@ Together, Pathly not only summarizes learning but actively suggests what to lear
 - **Database:** MongoDB 
 - **LLM Engine:** OpenAI GPT-4
 - **RAG Pipeline:** FAISS + Embedded Course Corpus
-- **Deployment:** (Local + GitHub Release)
 
 ---
 
