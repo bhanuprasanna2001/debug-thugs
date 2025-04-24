@@ -1,3 +1,4 @@
+![Header](./assets/pathly-header.jpg)
 # Pathly – Your AI-Powered Reflection Copilot for Learning & Growth
 
 
