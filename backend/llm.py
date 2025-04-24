@@ -4,7 +4,7 @@ from pymongo import MongoClient
 from openai import OpenAI
 
 # Set your API key (best via environment variable in production)
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 
 
