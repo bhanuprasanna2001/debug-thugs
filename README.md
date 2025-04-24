@@ -87,11 +87,17 @@ Together, Pathly not only summarizes learning but actively suggests what to lear
 
 ---
 
-## Screenshots / Demo
-- ![Reflection Form](./assets/screenshot-form.png)
-- ![Progress Tracker](./assets/screenshot-progress.png)
-- ![Final Summary Dashboard](./assets/screenshot-summary.png)
+### Reflection
+![Reflection Form](./assets/reflection2.png)
 
+### Progress Tracker with Feedback input
+![Progress Tracker with Feedback Input](./assets/reflection.png)
+
+### Job recommender
+![Job Recommender](./assets/jobrecommender.png)
+
+### Weekly Insights
+![Weekly Insights](./assets/weekly.png)
 
 
 ---
