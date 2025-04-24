@@ -81,23 +81,6 @@ Together, Pathly not only summarizes learning but actively suggests what to lear
 ## Architecture
 ![Architecture Diagram](./assets/architecture.png)
 
-```mermaid
-flowchart LR
-  User[User] -->|Daily Review| MongoDB
-  MongoDB --> LLM[LLM]
-  LLM --> Summary[Summary]
-  Summary --> Strengths
-  Summary --> Weaknesses
-  Summary --> Recommender
-  Recommender --> FAISS[FAISS]
-  FAISS --> CourseCorpus[Course Corpus]
-  Recommender --> Courses
-  Strengths --> Response
-  Weaknesses --> Response
-  Courses --> Response
-  Response --> User
-```
-
 ---
 
 
