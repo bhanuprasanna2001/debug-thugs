@@ -3,6 +3,22 @@
 
 > Pathly transforms daily skill reflections into personalized growth maps, course suggestions, and career paths using LLMs and RAG.
 
+
+---
+
+## 📚 Table of Contents
+
+- [What It Does](#what-it-does)
+- [Problem Statement](#problem-statement)
+- [Our Solution](#our-solution)
+- [Key Features](#key-features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [How to Run Locally](#how-to-run-locally)
+- [Screenshots / Demo](#screenshots--demo)
+- [Acknowledgements](#acknowledgements)
+
+
 ---
 
 ## What It Does
