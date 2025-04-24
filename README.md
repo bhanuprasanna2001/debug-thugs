@@ -5,7 +5,7 @@
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [What It Does](#what-it-does)
 - [Problem Statement](#problem-statement)
