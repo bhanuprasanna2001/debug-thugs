@@ -1,6 +1,4 @@
 ![Header](./assets/pathly-header.jpg)
-# Pathly – Your AI-Powered Reflection Copilot for Learning & Growth
-
 
 > Pathly transforms daily skill reflections into personalized growth maps, course suggestions, and career paths using LLMs and RAG.
 
