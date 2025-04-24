@@ -13,7 +13,6 @@
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
-- [How to Run Locally](#how-to-run-locally)
 - [Screenshots / Demo](#screenshots--demo)
 - [Acknowledgements](#acknowledgements)
 
