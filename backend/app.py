@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)
 
 # OpenAI setup
-client = OpenAI(api_key="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")  # Replace with env var in prod
+client = OpenAI(api_key="")
 
 # Mongo setup
 mongo = MongoClient("mongodb+srv://jadhavgourav98:Vishal123@vishalvarwanicluster0.jh3ewwl.mongodb.net/")
