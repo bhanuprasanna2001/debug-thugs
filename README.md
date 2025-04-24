@@ -1,6 +1,9 @@
 ![Header](./assets/pathly-header.jpg)
 
 > Pathly transforms daily skill reflections into personalized growth maps, course suggestions, and career paths using LLMs and RAG.
+
+
+---
 Path | Description
 backend/app.py | 🔧 Main Flask application with API routes for reflections, job prediction, and course recommendations (RAG + OpenAI).
 backend/llm.py | 🧠 Standalone script to run the LLM summary logic manually on local JSON reflection data.
@@ -12,8 +15,6 @@ frontend/pathly/src/pages/components/form/reflectionform.js | 🧾 React form fo
 frontend/pathly/src/pages/components/form/progresstracker.js | 📊 Displays student progress based on reflections.
 frontend/pathly/src/pages/components/recommend/recommendation.js | 📚 Shows RAG-based course suggestions fetched from backend.
 frontend/pathly/src/pages/components/LLM/llmfrontend.js | 💡 Renders LLM summary output including strengths, challenges, and paths.
-
----
 
 ## Table of Contents
 
