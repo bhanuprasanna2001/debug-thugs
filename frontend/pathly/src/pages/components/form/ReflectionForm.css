@@ -1,0 +1,201 @@
+.reflection-form-container {
+    max-width: 860px;
+    margin: 3rem auto;
+    background-color: #f9fafb;
+    border-radius: 20px;
+    padding: 2rem;
+    animation: fadeIn 0.6s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  .reflection-card {
+    background: #fff;
+    border-radius: 16px;
+    padding: 2rem;
+    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease-in-out;
+    border: 1px solid #e5e7eb;
+  }
+  
+  .reflection-card:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+  
+  .section-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1.25rem;
+    border-left: 4px solid #2563eb;
+    padding-left: 1rem;
+    color: #111827;
+  }
+  
+  .badge {
+    background-color: #e2e8f0;
+    font-size: 0.85rem;
+    padding: 0.5rem 0.9rem;
+    border-radius: 999px;
+    font-weight: 600;
+    color: #1e293b;
+    display: inline-block;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  textarea.form-control {
+    border-radius: 10px;
+    resize: vertical;
+    padding: 0.75rem 1rem;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.05);
+    min-height: 100px;
+  }
+  
+  .btn-outline-primary {
+    border-radius: 12px;
+    font-weight: 600;
+    padding: 0.75rem 1.75rem;
+    font-size: 1rem;
+    border: 1px solid #2563eb;
+    background-color: transparent;
+    color: #2563eb;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn-outline-primary:hover {
+    background-color: #2563eb;
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
+    transform: translateY(-2px);
+  }
+  
+  .form-label {
+    font-weight: 500;
+    color: #374151;
+    margin-bottom: 0.5rem;
+    font-size: 0.95rem;
+  }
+  
+  .form-select,
+  .form-control {
+    background-color: #f9fafb;
+    border-radius: 10px;
+    border: 1px solid #d1d5db;
+    padding: 0.6rem 1rem;
+    font-size: 0.95rem;
+    transition: border 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  .form-select:focus,
+  .form-control:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+    outline: none;
+  }
+  
+  .form-check-input:checked {
+    background-color: #2563eb;
+    border-color: #2563eb;
+  }
+  
+  .form-check-label {
+    font-weight: 500;
+    color: #374151;
+    padding-left: 0.5rem;
+    font-size: 0.95rem;
+  }
+  
+  textarea::placeholder {
+    color: #94a3b8;
+    font-style: italic;
+  }
+  
+  /* Chat-style hint */
+  textarea.form-control::before {
+    content: "💬 ";
+    font-weight: bold;
+  }
+  
+  /* Subtle feedback on hover */
+  .form-check:hover label {
+    color: #2563eb;
+    cursor: pointer;
+  }
+  
+  /* Button feedback pulse */
+  .btn-outline-primary:active {
+    animation: pulse 0.3s ease-in-out;
+  }
+  
+  @keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(0.97); }
+    100% { transform: scale(1); }
+  }
+  
+  /* New layout refinement */
+  .form-group-box {
+    background-color: #f8fafc;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+    transition: all 0.25s ease-in-out;
+  }
+  
+  .form-group-box:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+    transform: translateY(-2px);
+  }
+  
+  /* Motivational prompt */
+  .reflection-motivation {
+    background: linear-gradient(90deg, #f0fdf4 0%, #dcfce7 100%);
+    border-left: 5px solid #22c55e;
+    padding: 1rem 1.5rem;
+    font-size: 1rem;
+    color: #14532d;
+    border-radius: 14px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+    margin-bottom: 1.5rem;
+    position: relative;
+    animation: slideIn 0.5s ease forwards;
+  }
+  
+  @keyframes slideIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  .typing-dots::after {
+    content: '⠁⠂⠄';
+    animation: dots 1s steps(3, end) infinite;
+  }
+  
+  @keyframes dots {
+    0% { content: '⠁'; }
+    33% { content: '⠁⠂'; }
+    66% { content: '⠁⠂⠄'; }
+    100% { content: ''; }
+  }
+  
+  .snooze-btn {
+    position: absolute;
+    top: 10px;
+    right: 16px;
+    font-size: 0.875rem;
+    color: #6b7280;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .snooze-btn:hover {
+    color: #111827;
+    text-decoration: underline;
+  }
+  

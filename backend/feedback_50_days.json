@@ -1,0 +1,1053 @@
+{
+  "user_id": "993b77f0-42d3-4b87-a741-d8ca94fe3e74",
+  "reflections": [
+    {
+      "day": 1,
+      "likes": [
+        "WebSockets",
+        "Terminal"
+      ],
+      "dislikes": [
+        "HTML"
+      ],
+      "like_reasons": {
+        "WebSockets": "I could see immediate results from my actions.",
+        "Terminal": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "HTML": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 2,
+      "likes": [
+        "Flexbox",
+        "CSS"
+      ],
+      "dislikes": [
+        "DOM",
+        "OOP",
+        "TDD"
+      ],
+      "like_reasons": {
+        "Flexbox": "I could see immediate results from my actions.",
+        "CSS": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "DOM": "It was hard to understand at first.",
+        "OOP": "It felt like trial and error to make it work.",
+        "TDD": "It didn\u2019t behave as I expected."
+      }
+    },
+    {
+      "day": 3,
+      "likes": [
+        "Figma",
+        "OpenAI API",
+        "Ruby"
+      ],
+      "dislikes": [
+        "Heroku"
+      ],
+      "like_reasons": {
+        "Figma": "I could see immediate results from my actions.",
+        "OpenAI API": "I felt productive working with this.",
+        "Ruby": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "Heroku": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 4,
+      "likes": [
+        "Terminal",
+        "HTML"
+      ],
+      "dislikes": [
+        "DOM",
+        "RAG"
+      ],
+      "like_reasons": {
+        "Terminal": "I could see immediate results from my actions.",
+        "HTML": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "DOM": "It was hard to understand at first.",
+        "RAG": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 5,
+      "likes": [
+        "Database Design",
+        "Deployment"
+      ],
+      "dislikes": [
+        "TDD",
+        "HTML",
+        "OpenAI API"
+      ],
+      "like_reasons": {
+        "Database Design": "It was intuitive and fun to use.",
+        "Deployment": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "TDD": "The documentation wasn't clear.",
+        "HTML": "I struggled with the syntax.",
+        "OpenAI API": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 6,
+      "likes": [
+        "Copilot",
+        "Figma",
+        "Bootstrap",
+        "SQL"
+      ],
+      "dislikes": [
+        "Deployment",
+        "Ruby"
+      ],
+      "like_reasons": {
+        "Copilot": "I enjoyed how it made my work easier.",
+        "Figma": "It was intuitive and fun to use.",
+        "Bootstrap": "It was intuitive and fun to use.",
+        "SQL": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "Deployment": "The documentation wasn't clear.",
+        "Ruby": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 7,
+      "likes": [
+        "RAG",
+        "Deployment"
+      ],
+      "dislikes": [
+        "Flexbox",
+        "Ruby",
+        "GitHub"
+      ],
+      "like_reasons": {
+        "RAG": "It was intuitive and fun to use.",
+        "Deployment": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "Flexbox": "I struggled with the syntax.",
+        "Ruby": "I struggled with the syntax.",
+        "GitHub": "It didn\u2019t behave as I expected."
+      }
+    },
+    {
+      "day": 8,
+      "likes": [
+        "RAG",
+        "HTML"
+      ],
+      "dislikes": [
+        "Flexbox",
+        "Figma"
+      ],
+      "like_reasons": {
+        "RAG": "It was intuitive and fun to use.",
+        "HTML": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "Flexbox": "It didn\u2019t behave as I expected.",
+        "Figma": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 9,
+      "likes": [
+        "Bootstrap",
+        "Ruby"
+      ],
+      "dislikes": [
+        "Terminal",
+        "Agile"
+      ],
+      "like_reasons": {
+        "Bootstrap": "I enjoyed how it made my work easier.",
+        "Ruby": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "Terminal": "The documentation wasn't clear.",
+        "Agile": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 10,
+      "likes": [
+        "Database Design",
+        "Figma",
+        "OpenAI API"
+      ],
+      "dislikes": [
+        "ActiveRecord",
+        "TDD"
+      ],
+      "like_reasons": {
+        "Database Design": "I felt productive working with this.",
+        "Figma": "I felt productive working with this.",
+        "OpenAI API": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "ActiveRecord": "The documentation wasn't clear.",
+        "TDD": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 11,
+      "likes": [
+        "Figma",
+        "Heroku",
+        "Database Design",
+        "OOP"
+      ],
+      "dislikes": [
+        "OpenAI API",
+        "Copilot",
+        "CSS"
+      ],
+      "like_reasons": {
+        "Figma": "I enjoyed how it made my work easier.",
+        "Heroku": "It was intuitive and fun to use.",
+        "Database Design": "I enjoyed how it made my work easier.",
+        "OOP": "It aligned well with how I think."
+      },
+      "dislike_reasons": {
+        "OpenAI API": "I struggled with the syntax.",
+        "Copilot": "I struggled with the syntax.",
+        "CSS": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 12,
+      "likes": [
+        "LangChain",
+        "OpenAI API"
+      ],
+      "dislikes": [
+        "TDD"
+      ],
+      "like_reasons": {
+        "LangChain": "I enjoyed how it made my work easier.",
+        "OpenAI API": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "TDD": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 13,
+      "likes": [
+        "GitHub",
+        "Figma",
+        "Ruby",
+        "CSS"
+      ],
+      "dislikes": [
+        "HTML"
+      ],
+      "like_reasons": {
+        "GitHub": "I enjoyed how it made my work easier.",
+        "Figma": "It aligned well with how I think.",
+        "Ruby": "I felt productive working with this.",
+        "CSS": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "HTML": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 14,
+      "likes": [
+        "Figma",
+        "Flexbox",
+        "LangChain",
+        "DOM"
+      ],
+      "dislikes": [
+        "Git"
+      ],
+      "like_reasons": {
+        "Figma": "I felt productive working with this.",
+        "Flexbox": "It aligned well with how I think.",
+        "LangChain": "It was intuitive and fun to use.",
+        "DOM": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "Git": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 15,
+      "likes": [
+        "HTML",
+        "OpenAI API",
+        "Ruby"
+      ],
+      "dislikes": [
+        "Bootstrap",
+        "Figma",
+        "GitHub"
+      ],
+      "like_reasons": {
+        "HTML": "I could see immediate results from my actions.",
+        "OpenAI API": "I enjoyed how it made my work easier.",
+        "Ruby": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "Bootstrap": "I struggled with the syntax.",
+        "Figma": "It felt like trial and error to make it work.",
+        "GitHub": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 16,
+      "likes": [
+        "ActiveRecord",
+        "OpenAI API",
+        "Heroku",
+        "OOP"
+      ],
+      "dislikes": [
+        "Flexbox",
+        "Agile",
+        "Copilot"
+      ],
+      "like_reasons": {
+        "ActiveRecord": "I could see immediate results from my actions.",
+        "OpenAI API": "I felt productive working with this.",
+        "Heroku": "I enjoyed how it made my work easier.",
+        "OOP": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "Flexbox": "It was hard to understand at first.",
+        "Agile": "I struggled with the syntax.",
+        "Copilot": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 17,
+      "likes": [
+        "WebSockets",
+        "Flexbox"
+      ],
+      "dislikes": [
+        "Copilot",
+        "Bootstrap",
+        "RAG"
+      ],
+      "like_reasons": {
+        "WebSockets": "I enjoyed how it made my work easier.",
+        "Flexbox": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "Copilot": "It felt like trial and error to make it work.",
+        "Bootstrap": "The documentation wasn't clear.",
+        "RAG": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 18,
+      "likes": [
+        "OOP",
+        "Bootstrap",
+        "SQL"
+      ],
+      "dislikes": [
+        "WebSockets",
+        "OpenAI API"
+      ],
+      "like_reasons": {
+        "OOP": "I felt productive working with this.",
+        "Bootstrap": "I could see immediate results from my actions.",
+        "SQL": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "WebSockets": "The documentation wasn't clear.",
+        "OpenAI API": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 19,
+      "likes": [
+        "Agile",
+        "OOP",
+        "GitHub",
+        "JavaScript"
+      ],
+      "dislikes": [
+        "HTML"
+      ],
+      "like_reasons": {
+        "Agile": "I enjoyed how it made my work easier.",
+        "OOP": "I could see immediate results from my actions.",
+        "GitHub": "It aligned well with how I think.",
+        "JavaScript": "It aligned well with how I think."
+      },
+      "dislike_reasons": {
+        "HTML": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 20,
+      "likes": [
+        "Terminal",
+        "RAG",
+        "Flexbox",
+        "ActiveRecord"
+      ],
+      "dislikes": [
+        "TDD",
+        "LangChain",
+        "Database Design"
+      ],
+      "like_reasons": {
+        "Terminal": "It aligned well with how I think.",
+        "RAG": "I enjoyed how it made my work easier.",
+        "Flexbox": "I could see immediate results from my actions.",
+        "ActiveRecord": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "TDD": "It was hard to understand at first.",
+        "LangChain": "It was hard to understand at first.",
+        "Database Design": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 21,
+      "likes": [
+        "WebSockets",
+        "Figma"
+      ],
+      "dislikes": [
+        "Ruby",
+        "LangChain"
+      ],
+      "like_reasons": {
+        "WebSockets": "It was intuitive and fun to use.",
+        "Figma": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "Ruby": "I struggled with the syntax.",
+        "LangChain": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 22,
+      "likes": [
+        "Bootstrap",
+        "Heroku",
+        "JavaScript",
+        "RAG"
+      ],
+      "dislikes": [
+        "Database Design"
+      ],
+      "like_reasons": {
+        "Bootstrap": "I enjoyed how it made my work easier.",
+        "Heroku": "I enjoyed how it made my work easier.",
+        "JavaScript": "I felt productive working with this.",
+        "RAG": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "Database Design": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 23,
+      "likes": [
+        "JavaScript",
+        "HTML",
+        "Terminal"
+      ],
+      "dislikes": [
+        "GitHub",
+        "Flexbox"
+      ],
+      "like_reasons": {
+        "JavaScript": "I could see immediate results from my actions.",
+        "HTML": "I enjoyed how it made my work easier.",
+        "Terminal": "It aligned well with how I think."
+      },
+      "dislike_reasons": {
+        "GitHub": "The documentation wasn't clear.",
+        "Flexbox": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 24,
+      "likes": [
+        "Flexbox",
+        "Copilot"
+      ],
+      "dislikes": [
+        "OpenAI API"
+      ],
+      "like_reasons": {
+        "Flexbox": "I could see immediate results from my actions.",
+        "Copilot": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "OpenAI API": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 25,
+      "likes": [
+        "GitHub",
+        "LangChain",
+        "Agile"
+      ],
+      "dislikes": [
+        "DOM"
+      ],
+      "like_reasons": {
+        "GitHub": "It aligned well with how I think.",
+        "LangChain": "I could see immediate results from my actions.",
+        "Agile": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "DOM": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 26,
+      "likes": [
+        "GitHub",
+        "SQL",
+        "JavaScript"
+      ],
+      "dislikes": [
+        "Terminal"
+      ],
+      "like_reasons": {
+        "GitHub": "I enjoyed how it made my work easier.",
+        "SQL": "It aligned well with how I think.",
+        "JavaScript": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "Terminal": "It didn\u2019t behave as I expected."
+      }
+    },
+    {
+      "day": 27,
+      "likes": [
+        "Copilot",
+        "TDD"
+      ],
+      "dislikes": [
+        "CSS",
+        "RAG",
+        "ActiveRecord"
+      ],
+      "like_reasons": {
+        "Copilot": "It was intuitive and fun to use.",
+        "TDD": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "CSS": "It felt like trial and error to make it work.",
+        "RAG": "It felt like trial and error to make it work.",
+        "ActiveRecord": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 28,
+      "likes": [
+        "Git",
+        "Database Design"
+      ],
+      "dislikes": [
+        "Bootstrap",
+        "JavaScript",
+        "LangChain"
+      ],
+      "like_reasons": {
+        "Git": "I felt productive working with this.",
+        "Database Design": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "Bootstrap": "The documentation wasn't clear.",
+        "JavaScript": "The documentation wasn't clear.",
+        "LangChain": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 29,
+      "likes": [
+        "Agile",
+        "Ruby",
+        "TDD"
+      ],
+      "dislikes": [
+        "WebSockets",
+        "RAG"
+      ],
+      "like_reasons": {
+        "Agile": "I enjoyed how it made my work easier.",
+        "Ruby": "It was intuitive and fun to use.",
+        "TDD": "It aligned well with how I think."
+      },
+      "dislike_reasons": {
+        "WebSockets": "It didn\u2019t behave as I expected.",
+        "RAG": "It didn\u2019t behave as I expected."
+      }
+    },
+    {
+      "day": 30,
+      "likes": [
+        "ActiveRecord",
+        "TDD",
+        "Database Design",
+        "Terminal"
+      ],
+      "dislikes": [
+        "JavaScript"
+      ],
+      "like_reasons": {
+        "ActiveRecord": "I enjoyed how it made my work easier.",
+        "TDD": "I enjoyed how it made my work easier.",
+        "Database Design": "It was intuitive and fun to use.",
+        "Terminal": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "JavaScript": "It didn\u2019t behave as I expected."
+      }
+    },
+    {
+      "day": 31,
+      "likes": [
+        "OpenAI API",
+        "WebSockets"
+      ],
+      "dislikes": [
+        "Bootstrap",
+        "Ruby"
+      ],
+      "like_reasons": {
+        "OpenAI API": "I enjoyed how it made my work easier.",
+        "WebSockets": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "Bootstrap": "I struggled with the syntax.",
+        "Ruby": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 32,
+      "likes": [
+        "LangChain",
+        "Database Design"
+      ],
+      "dislikes": [
+        "Bootstrap",
+        "Terminal"
+      ],
+      "like_reasons": {
+        "LangChain": "It was intuitive and fun to use.",
+        "Database Design": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "Bootstrap": "It was hard to understand at first.",
+        "Terminal": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 33,
+      "likes": [
+        "WebSockets",
+        "Database Design",
+        "Ruby"
+      ],
+      "dislikes": [
+        "OOP",
+        "Git",
+        "LangChain"
+      ],
+      "like_reasons": {
+        "WebSockets": "It aligned well with how I think.",
+        "Database Design": "I felt productive working with this.",
+        "Ruby": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "OOP": "It was hard to understand at first.",
+        "Git": "It didn\u2019t behave as I expected.",
+        "LangChain": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 34,
+      "likes": [
+        "WebSockets",
+        "SQL",
+        "OOP",
+        "Database Design"
+      ],
+      "dislikes": [
+        "DOM",
+        "OpenAI API"
+      ],
+      "like_reasons": {
+        "WebSockets": "It was intuitive and fun to use.",
+        "SQL": "I felt productive working with this.",
+        "OOP": "It aligned well with how I think.",
+        "Database Design": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "DOM": "I struggled with the syntax.",
+        "OpenAI API": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 35,
+      "likes": [
+        "CSS",
+        "LangChain",
+        "DOM",
+        "Agile"
+      ],
+      "dislikes": [
+        "Heroku",
+        "Figma"
+      ],
+      "like_reasons": {
+        "CSS": "It was intuitive and fun to use.",
+        "LangChain": "I felt productive working with this.",
+        "DOM": "It aligned well with how I think.",
+        "Agile": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "Heroku": "The documentation wasn't clear.",
+        "Figma": "It didn\u2019t behave as I expected."
+      }
+    },
+    {
+      "day": 36,
+      "likes": [
+        "CSS",
+        "TDD",
+        "WebSockets",
+        "JavaScript"
+      ],
+      "dislikes": [
+        "Heroku",
+        "HTML",
+        "Git"
+      ],
+      "like_reasons": {
+        "CSS": "I enjoyed how it made my work easier.",
+        "TDD": "It was intuitive and fun to use.",
+        "WebSockets": "I felt productive working with this.",
+        "JavaScript": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "Heroku": "I struggled with the syntax.",
+        "HTML": "It didn\u2019t behave as I expected.",
+        "Git": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 37,
+      "likes": [
+        "TDD",
+        "SQL",
+        "Bootstrap",
+        "WebSockets"
+      ],
+      "dislikes": [
+        "OOP"
+      ],
+      "like_reasons": {
+        "TDD": "It aligned well with how I think.",
+        "SQL": "It was intuitive and fun to use.",
+        "Bootstrap": "It aligned well with how I think.",
+        "WebSockets": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "OOP": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 38,
+      "likes": [
+        "Heroku",
+        "Terminal",
+        "CSS"
+      ],
+      "dislikes": [
+        "SQL",
+        "HTML"
+      ],
+      "like_reasons": {
+        "Heroku": "I enjoyed how it made my work easier.",
+        "Terminal": "It was intuitive and fun to use.",
+        "CSS": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "SQL": "The documentation wasn't clear.",
+        "HTML": "It felt like trial and error to make it work."
+      }
+    },
+    {
+      "day": 39,
+      "likes": [
+        "SQL",
+        "GitHub",
+        "LangChain",
+        "Git"
+      ],
+      "dislikes": [
+        "JavaScript"
+      ],
+      "like_reasons": {
+        "SQL": "It was intuitive and fun to use.",
+        "GitHub": "I felt productive working with this.",
+        "LangChain": "It aligned well with how I think.",
+        "Git": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "JavaScript": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 40,
+      "likes": [
+        "DOM",
+        "Figma"
+      ],
+      "dislikes": [
+        "Copilot"
+      ],
+      "like_reasons": {
+        "DOM": "I felt productive working with this.",
+        "Figma": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "Copilot": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 41,
+      "likes": [
+        "TDD",
+        "Ruby",
+        "OpenAI API"
+      ],
+      "dislikes": [
+        "Figma",
+        "RAG"
+      ],
+      "like_reasons": {
+        "TDD": "I enjoyed how it made my work easier.",
+        "Ruby": "I felt productive working with this.",
+        "OpenAI API": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "Figma": "The documentation wasn't clear.",
+        "RAG": "It didn\u2019t behave as I expected."
+      }
+    },
+    {
+      "day": 42,
+      "likes": [
+        "Copilot",
+        "Ruby"
+      ],
+      "dislikes": [
+        "HTML"
+      ],
+      "like_reasons": {
+        "Copilot": "I could see immediate results from my actions.",
+        "Ruby": "It aligned well with how I think."
+      },
+      "dislike_reasons": {
+        "HTML": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 43,
+      "likes": [
+        "DOM",
+        "SQL",
+        "JavaScript",
+        "TDD"
+      ],
+      "dislikes": [
+        "WebSockets",
+        "Copilot",
+        "Ruby"
+      ],
+      "like_reasons": {
+        "DOM": "I could see immediate results from my actions.",
+        "SQL": "It was intuitive and fun to use.",
+        "JavaScript": "It aligned well with how I think.",
+        "TDD": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "WebSockets": "I struggled with the syntax.",
+        "Copilot": "It was hard to understand at first.",
+        "Ruby": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 44,
+      "likes": [
+        "Copilot",
+        "TDD",
+        "DOM",
+        "SQL"
+      ],
+      "dislikes": [
+        "JavaScript"
+      ],
+      "like_reasons": {
+        "Copilot": "It aligned well with how I think.",
+        "TDD": "It was intuitive and fun to use.",
+        "DOM": "It aligned well with how I think.",
+        "SQL": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "JavaScript": "I struggled with the syntax."
+      }
+    },
+    {
+      "day": 45,
+      "likes": [
+        "Figma",
+        "Copilot",
+        "Ruby",
+        "Agile"
+      ],
+      "dislikes": [
+        "Flexbox"
+      ],
+      "like_reasons": {
+        "Figma": "I could see immediate results from my actions.",
+        "Copilot": "I enjoyed how it made my work easier.",
+        "Ruby": "It was intuitive and fun to use.",
+        "Agile": "I enjoyed how it made my work easier."
+      },
+      "dislike_reasons": {
+        "Flexbox": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 46,
+      "likes": [
+        "JavaScript",
+        "Database Design"
+      ],
+      "dislikes": [
+        "CSS",
+        "HTML",
+        "ActiveRecord"
+      ],
+      "like_reasons": {
+        "JavaScript": "It was intuitive and fun to use.",
+        "Database Design": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "CSS": "It felt like trial and error to make it work.",
+        "HTML": "It was hard to understand at first.",
+        "ActiveRecord": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 47,
+      "likes": [
+        "TDD",
+        "Database Design",
+        "ActiveRecord"
+      ],
+      "dislikes": [
+        "Agile",
+        "RAG",
+        "Heroku"
+      ],
+      "like_reasons": {
+        "TDD": "It was intuitive and fun to use.",
+        "Database Design": "It aligned well with how I think.",
+        "ActiveRecord": "It aligned well with how I think."
+      },
+      "dislike_reasons": {
+        "Agile": "It felt like trial and error to make it work.",
+        "RAG": "It was hard to understand at first.",
+        "Heroku": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 48,
+      "likes": [
+        "Terminal",
+        "JavaScript",
+        "Figma",
+        "TDD"
+      ],
+      "dislikes": [
+        "WebSockets",
+        "Deployment"
+      ],
+      "like_reasons": {
+        "Terminal": "It was intuitive and fun to use.",
+        "JavaScript": "I enjoyed how it made my work easier.",
+        "Figma": "I enjoyed how it made my work easier.",
+        "TDD": "I felt productive working with this."
+      },
+      "dislike_reasons": {
+        "WebSockets": "The documentation wasn't clear.",
+        "Deployment": "The documentation wasn't clear."
+      }
+    },
+    {
+      "day": 49,
+      "likes": [
+        "DOM",
+        "Bootstrap",
+        "Copilot",
+        "RAG"
+      ],
+      "dislikes": [
+        "TDD",
+        "JavaScript",
+        "WebSockets"
+      ],
+      "like_reasons": {
+        "DOM": "It aligned well with how I think.",
+        "Bootstrap": "It was intuitive and fun to use.",
+        "Copilot": "I felt productive working with this.",
+        "RAG": "It was intuitive and fun to use."
+      },
+      "dislike_reasons": {
+        "TDD": "It didn\u2019t behave as I expected.",
+        "JavaScript": "It felt like trial and error to make it work.",
+        "WebSockets": "It was hard to understand at first."
+      }
+    },
+    {
+      "day": 50,
+      "likes": [
+        "ActiveRecord",
+        "RAG",
+        "Database Design"
+      ],
+      "dislikes": [
+        "TDD"
+      ],
+      "like_reasons": {
+        "ActiveRecord": "It aligned well with how I think.",
+        "RAG": "I felt productive working with this.",
+        "Database Design": "I could see immediate results from my actions."
+      },
+      "dislike_reasons": {
+        "TDD": "The documentation wasn't clear."
+      }
+    }
+  ]
+}
